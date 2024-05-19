@@ -31,17 +31,19 @@ int demo4(){
     bai = (int)(a/100);
     shi = (int)(a-bai*100)/10;
     ge = (int)(a-bai*100-shi*10);
-    printf("个位数字%d\n",ge);
-    printf("十位数字%d\n",shi);
-    printf("百位数字%d\n",bai);
+    printf("百位数字:%d\n",bai);
+    printf("十位数字:%d\n",shi);
+    printf("个位数字:%d\n",ge);
+    
     return 0;
 
 }
 
-
+/*
 int demo5(){
     
 }
+*/
 
 
 

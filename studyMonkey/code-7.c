@@ -5,6 +5,6 @@
     a = 123;
     b = 456;
     sum = a+b;
-    printf("和为%d\n",sum);
+    printf("和为: %d\n",sum);
     return 0;
  }

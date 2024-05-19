@@ -9,6 +9,4 @@ int main(){
     printf("人\n");
     return 0;
 
-
-
 }
